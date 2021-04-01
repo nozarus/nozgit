@@ -358,7 +358,7 @@ body.page-template-page-fullsingle-split p {
   margin-bottom: 12px;
 }
 .split-lists .split-list ul li a {
-  color: #848d96;
+  color: #fff;
   transition-duration: 0.5s;
 }
 .split-lists .split-list ul li a:hover {
