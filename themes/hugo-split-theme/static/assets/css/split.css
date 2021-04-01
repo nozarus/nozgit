@@ -145,8 +145,9 @@ body.page-template-page-fullsingle-split p {
   .fs-split .split-image {
     width: 100%;
     position: fixed;
-    height: -webkit-fill-available;
+    height: 100vh;
     opacity: 15%;
+    background-size: cover;
   }
 }
 .fs-split .split-content {
