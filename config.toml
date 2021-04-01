@@ -43,7 +43,7 @@ copyright = "&copy;2021 Noz"
   # Links List #1
   [[params.links]]
     [params.links.list1]
-      heading = "Contact Info"
+      heading = "How to Contact"
 
       [[params.links.list1.link]]
         text = "0412 123 123"
@@ -56,27 +56,27 @@ copyright = "&copy;2021 Noz"
   # Links List #2
   [[params.links]]
     [params.links.list2]
-      heading = "Support Links"
+      heading = "More About Us"
 
       [[params.links.list2.link]]
-        text = "NDIS"
+        text = "Services"
         url = "#"
 
       [[params.links.list2.link]]
-        text = "Rubix"
+        text = "Who We Are"
         url = "#"
 
   # Links List #3
   [[params.links]]
     [params.links.list3]
-      heading = "More About Us"
+      heading = "Support Links"
 
       [[params.links.list3.link]]
-        text = "Service"
+        text = "NDIS"
         url = "#"
 
       [[params.links.list3.link]]
-        text = "Background"
+        text = "Rubix"
         url = "#"
 
   # The original template is released under the Creative Commons Attribution 3.0 License.
