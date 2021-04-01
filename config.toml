@@ -47,7 +47,7 @@ copyright = "&copy;2021 Noz"
 
       [[params.links.list1.link]]
         text = "0412 123 123"
-        url = "tel:+412123123"
+        url = "tel:#"
 
       [[params.links.list1.link]]
         text = "Email"
