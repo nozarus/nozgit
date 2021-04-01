@@ -202,7 +202,7 @@ body.page-template-page-fullsingle-split p {
 
 .split-bio {
   padding: 40px 0 20px 0;
-  font-family: "sans-serif", serif;
+  font-family: "Montserrat", "sans-serif", serif;
 }
 @media (max-width: 1200px) {
   .split-bio {
@@ -218,7 +218,7 @@ body.page-template-page-fullsingle-split p {
   color: #848d96;
   margin-bottom: 20px;
   line-height: inherit;
-  font-family: sans-serif;
+  font-family: "Montserrat";
 }
 .split-bio a {
   color: #848d96;
@@ -253,7 +253,7 @@ body.page-template-page-fullsingle-split p {
   font-style: normal;
   font-weight: normal;
   color: inherit;
-  font-family: sans-serif;
+  font-family: "Montserrat";
 }
 .split-bio h1 small, .split-bio .h1 small,
 .split-bio h2 small, .split-bio .h2 small,
