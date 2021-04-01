@@ -148,6 +148,9 @@ body.page-template-page-fullsingle-split p {
     height: 100vh;
     opacity: 15%;
     background-size: cover;
+    top: 0;
+    left: 0;
+    z-index: -1;
   }
 }
 .fs-split .split-content {
