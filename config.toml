@@ -43,52 +43,40 @@ copyright = "&copy;2021 Noz"
   # Links List #1
   [[params.links]]
     [params.links.list1]
-      heading = "Connect"
+      heading = "Contact"
 
       [[params.links.list1.link]]
-        text = "Blog"
+        text = "0412 123 123"
         url = "#"
 
       [[params.links.list1.link]]
         text = "Email"
-        url = "#"
-
-      [[params.links.list1.link]]
-        text = "Newsletter"
-        url = "#"
+        url = "betterhelpandgardens@gmail.com"
 
   # Links List #2
   [[params.links]]
     [params.links.list2]
-      heading = "Social"
+      heading = "Support Links"
 
       [[params.links.list2.link]]
-        text = "Twitter"
+        text = "NDIS"
         url = "#"
 
       [[params.links.list2.link]]
-        text = "Instagram"
-        url = "#"
-
-      [[params.links.list2.link]]
-        text = "Dribbble"
+        text = "Rubix"
         url = "#"
 
   # Links List #3
   [[params.links]]
     [params.links.list3]
-      heading = "Network"
+      heading = "More About Us"
 
       [[params.links.list3.link]]
-        text = "Link One"
+        text = "Service"
         url = "#"
 
       [[params.links.list3.link]]
-        text = "Link Two"
-        url = "#"
-
-      [[params.links.list3.link]]
-        text = "Link Three"
+        text = "Background"
         url = "#"
 
   # The original template is released under the Creative Commons Attribution 3.0 License.
