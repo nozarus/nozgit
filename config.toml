@@ -43,7 +43,7 @@ copyright = "&copy;2021 Noz"
   # Links List #1
   [[params.links]]
     [params.links.list1]
-      heading = "How to Contact"
+      heading = "Contact"
 
       [[params.links.list1.link]]
         text = "0412 123 123"
@@ -56,7 +56,7 @@ copyright = "&copy;2021 Noz"
   # Links List #2
   [[params.links]]
     [params.links.list2]
-      heading = "More About Us"
+      heading = "About"
 
       [[params.links.list2.link]]
         text = "Services"
@@ -69,7 +69,7 @@ copyright = "&copy;2021 Noz"
   # Links List #3
   [[params.links]]
     [params.links.list3]
-      heading = "Support Links"
+      heading = "Links"
 
       [[params.links.list3.link]]
         text = "NDIS"
