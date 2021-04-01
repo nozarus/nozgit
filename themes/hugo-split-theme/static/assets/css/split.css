@@ -143,8 +143,10 @@ body.page-template-page-fullsingle-split p {
 }
 @media (max-width: 800px) {
   .fs-split .split-image {
-    height: 80vh;
     width: 100%;
+    position: fixed;
+    height: -webkit-fill-available;
+    opacity: 15%;
   }
 }
 .fs-split .split-content {
