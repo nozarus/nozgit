@@ -8,7 +8,7 @@
         <h3>{{ $list.heading }}</h3>
         <ul>
           {{ range $list.link }}
-            <li><a href="{{ . | safeURL }}">{{ .text }}</a></li>
+            <li><a href="{{ .url | safeURL }}">{{ .text }}</a></li>
           {{ end }}
         </ul>
       </div>
