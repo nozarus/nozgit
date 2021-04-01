@@ -43,7 +43,7 @@ copyright = "&copy;2021 Noz"
   # Links List #1
   [[params.links]]
     [params.links.list1]
-      heading = "Contact"
+      heading = "Contact Info"
 
       [[params.links.list1.link]]
         text = "0412 123 123"
