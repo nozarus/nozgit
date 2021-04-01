@@ -161,6 +161,7 @@ body.page-template-page-fullsingle-split p {
   .fs-split .split-content {
     width: 100%;
     height: auto;
+    position: absolute;
   }
 }
 .fs-split .split-content .split-content-vertically-center {
