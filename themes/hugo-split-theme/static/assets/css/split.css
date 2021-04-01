@@ -182,7 +182,16 @@ body.page-template-page-fullsingle-split p {
 @media (max-width: 800px) {
   .fs-split .split-content .split-content-vertically-center {
     padding: 20px;
-    font: caption;
+    font-style: normal;
+    font-variant-ligatures: normal;
+    font-variant-caps: normal;
+    font-variant-numeric: normal;
+    font-variant-east-asian: normal;
+    font-weight: 500;
+    font-stretch: normal;
+    font-size: 14px;
+    line-height: normal;
+    letter-spacing: 1px;
   }
 }
 
