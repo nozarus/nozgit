@@ -196,7 +196,8 @@ body.page-template-page-fullsingle-split p {
 }
 .split-intro .tagline {
   color: #CCCCCC;
-  font-size: 55px;
+  font-size: 50px;
+  line-height: normal;
 }
 
 .split-bio {
