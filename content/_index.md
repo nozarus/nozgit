@@ -1,6 +1,6 @@
 +++
 title = "Better Help & Gardens"
-tagline = "Total Property Maintenance"
+tagline = "**Help when you need it**"
 +++
 
 ## We're Good
